@@ -1083,6 +1083,11 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+#baboo {
+  width: 200px;
+  height: 200px;
+}
     .inner-masthead {
         display: grid;
         grid-template-columns: 500px auto;
